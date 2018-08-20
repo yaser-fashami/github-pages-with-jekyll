@@ -1,4 +1,4 @@
-----
+---
 title: "tomcat project"
 date: 2018-08-20
 author: yaser fashami
@@ -15,4 +15,4 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-minima
------
+---
